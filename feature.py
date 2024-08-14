@@ -7,4 +7,4 @@ for feature in features:
       print ("What the fuck is this code")
 
 
-  
+features2 = ("Ugly", "Chubby", "Average", )      
